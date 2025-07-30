@@ -54,7 +54,8 @@ Simulate and analyze user behavior in mobile data usage to discover trends in ap
 - 🔄 **Recharge Trend Over Time**
 - 🔍 **Interactive filters** by user, hour, and location
 
-➡️ **[View Tableau Dashboard](https://public.tableau.com/app/profile/arya.banerjee2008/viz/mobile_data_analysis/Mobile_Data_Analysis?publish=yes)**
+➡️ **[View Tableau Dashboard](https://public.tableau.com/app/profile/arya.banerjee2008/viz/mobile_data_analysis/Mobile_Data_Analysis?publish=yes)
+                              (https://public.tableau.com/app/profile/arya.banerjee2008/viz/Topappsanddataperhour/Topappsanddatausedperhour?publish=yes)**
 
 ---
 
